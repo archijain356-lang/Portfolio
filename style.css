@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: "CreamCake";
-  src: url("fonts/CreamCake.otf") format("opentype");
+  src: url("CreamCake.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
@@ -10,23 +10,23 @@
 
 @font-face {
   font-family: "Brogietta";
-  src: url("fonts/BROGETTA-Regular.otf") format("opentype");
+  src: url("BROGETTA-Regular.otf") format("opentype");
 }
 
 @font-face {
   font-family: "Anton";
-  src: url("fonts/anton.ttf") format("truetype");
+  src: url("anton.ttf") format("truetype");
   font-display: swap;
 }
 
 @font-face {
   font-family: "Jomolhari";
-  src: url("fonts/Jomolhari-Regular.ttf") format("truetype");
+  src: url("Jomolhari-Regular.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Jomhuria";
-  src: url("fonts/Jomhuria-Regular.ttf") format("truetype");
+  src: url("Jomhuria-Regular.ttf") format("truetype");
 }
 
 *,
